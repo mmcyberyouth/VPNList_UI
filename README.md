@@ -8,6 +8,16 @@ To against Military Government
 
 23 Feb 2021
 
+# Usage
+
+### Vue in Laravel
+
+@{{ ... }}
+
+### Pure Vue
+
+{{ ... }}
+
 # Demo
 
-![LoL](demo.jpg)
+![Demo Image](demo.jpg)

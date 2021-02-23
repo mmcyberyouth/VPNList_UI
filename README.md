@@ -12,12 +12,15 @@ To against Military Government
 
 ### Vue in Laravel
 
+```vue
 @{{ ... }}
+```
 
 ### Pure Vue
 
+```vue
 {{ ... }}
-
+```
 # Demo
 
 ![Demo Image](demo.jpg)
